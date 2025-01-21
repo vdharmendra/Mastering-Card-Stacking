@@ -39,7 +39,12 @@ Card stacking is the art of arranging playing cards to form towers or structures
 <br/>
 <a href="https://www.behance.net/gallery/217409495/Mastering-Card-Stacking" target="_blank">
 <img style="width:350px;" src="./img/masteringCardStackingUIUX.png" alt="" />
+</a>
+
 <br />
+<span>Mastering Card Stacking UI UX Layout</span>
+<br />
+<a href="https://www.behance.net/gallery/217409495/Mastering-Card-Stacking" target="_blank">
 <img style="width:350px;" src="./img/masteringCardStackingUIUX.gif" alt="" />
 </a>
 <br/>
